@@ -1,0 +1,5 @@
+autogen
+pyautogen
+dask[dataframe]
+python-dotenv
+langchain_groq
